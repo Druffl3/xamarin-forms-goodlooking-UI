@@ -8,6 +8,158 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Sneakers UI](https://github.com/LeomarisReyes/SneakersUIApp)
+
+Replicate a Sneaker UI App obtained from Dribble. You can check the design [here](https://dribbble.com/shots/13980919-Candy-Sneakers).
+
+<img src="images/sneakersui.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- CollectionView.
+- Layouts.
+- Navigation.
+- PancakeView.
+
+### More information:
+- Blog: [Replicating Sneakers UI in Xamarin Forms](https://askxammy.com/replicating-sneakers-ui-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/SneakersUIApp](https://github.com/LeomarisReyes/SneakersUIApp)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+  
+## [Streaming UI](https://github.com/LeomarisReyes/StreamingUIApp)
+
+Replicate a Streaming UI App obtained from Dribble. You can check the design [here](https://dribbble.com/shots/7015497-Streaming-App/attachments/18404?mode=media).
+
+<img src="images/streamingui.jpg" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- CollectionView.
+- Layouts.
+- PancakeView.
+
+### More information:
+- Blog: [Replicating Streaming UI App in Xamarin Forms](https://askxammy.com/replicating-streaming-ui-app-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/StreamingUIApp](https://github.com/LeomarisReyes/StreamingUIApp)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
+## [Real Estate Property details UI](https://github.com/LeomarisReyes/RealStateUIApp)
+
+Replicate a Real Estate UI obtained from Dribble. You can check the design [here](https://dribbble.com/shots/12997401-Real-Estate-app).
+
+<img src="images/realestateui.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- CollectionView.
+- Layouts.
+- MVVM.
+
+### More information:
+- Blog: [Replicating Real Estate Property details UI in Xamarin Forms](https://askxammy.com/replicating-real-estate-property-details-ui-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/RealStateUIApp](https://github.com/LeomarisReyes/RealStateUIApp)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
+## [Raw Rows](https://github.com/AndreiMisiukevich/RawRows)
+
+The "Raw Rows" is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
+
+<img src="images/rawrows.gif" Width="240" />
+
+Download:
+
+* AppStore: https://apps.apple.com/zw/app/raw-rows/id1513966639
+* Google Play: https://play.google.com/store/apps/details?id=com.sourcesoft.rawrows&hl=en
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- PancakeView.
+- TouchView.
+- XForms.Plugin.AnimationNavigationPage
+- Xamarin.Essentials.
+
+### More information:
+- Source code: [https://github.com/AndreiMisiukevich/RawRows](https://github.com/AndreiMisiukevich/RawRows)
+- Author: [Andrei Misiukevich](https://twitter.com/andrik_just4fun)
+
+## [Menu Transition](https://github.com/devcrux/Menu-Transition-in-Xamarin-Forms)
+
+Seemless transition is an essential part of user experience design and this project implements a custom menu transition from a title view in Xamarin Forms.
+
+You can watch the video here ➤ https://youtu.be/768kDDR-0BY
+
+<img src="images/menutransition.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Animations.
+- BindableLayout.
+
+### More information:
+- Source code: [https://github.com/devcrux/Menu-Transition-in-Xamarin-Forms](https://github.com/devcrux/Menu-Transition-in-Xamarin-Forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
+## [AnimatedText](https://github.com/devcrux/Animated-Text-in-Xamarin-Forms)
+
+Animations can add visual cues about what’s going on in your app and are especially useful when the state of your UI changes, such as when new content loads or new actions become available.
+
+You can watch the video here ➤ https://youtu.be/ModuAWkv5K8
+
+<img src="images/animatedtext.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Animations.
+- BindableLayout.
+
+### More information:
+- Source code: [https://github.com/devcrux/Animated-Text-in-Xamarin-Forms](https://github.com/devcrux/Animated-Text-in-Xamarin-Forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
+## [AnimatedGradient](https://github.com/devcrux/Xamarin.Forms-Brushes-Animated-Gradient-Background)
+
+Gradients have positive influence in modern designs. Xamarin.Forms 4.8 introduced the Xamarin.Forms Brushes that contain LinearGradientBrush, RadialGradientBrush and SolidColorBrush.
+
+You can watch the video here ➤ https://youtu.be/ejDwwc1Iq1s
+
+<img src="images/animatedgradient.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Brushes.
+
+### More information:
+- Source code: [https://github.com/devcrux/Xamarin.Forms-Brushes-Animated-Gradient-Background](https://github.com/devcrux/Xamarin.Forms-Brushes-Animated-Gradient-Background)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+ 
 ## [Cinema App](https://github.com/devcrux/Cinema-App-Using-SkiaSharp-and-Xamarin-Fomrs-Shapes)
 
 Ever wondered how to replicate the cinema seats arrangements in Xamarin.Forms?
